@@ -18,6 +18,7 @@ hey! this is reese's first dotfiles. made for bspwm, based on two things that re
 * kitty
 * vim
 * chromium
+* scrot
 * thunar (when i'm lazy and want to use mouse)
 * ranger (when i'm lazy and want to use terminal)
 * spotify with [spicetify](https://github.com/khanhas/spicetify-cli)
