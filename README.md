@@ -39,5 +39,6 @@ hey! this is reese's first dotfiles. made for bspwm, based on two things that re
 # install
 clone the repo and either
 * copy everything to your home folder
+
 or
 * copy what you need to your respective folders
